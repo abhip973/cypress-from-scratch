@@ -1,1 +1,0 @@
-Hi hope you are doing WebGLUniformLocation.apply
